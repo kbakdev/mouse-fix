@@ -1,6 +1,3 @@
-# mouse-fix
-Got a mouse that's more than 125Hz and you're using Linux? Turn on this script and say goodbye to the problem.
-
 # How to fix the mouse?
 
 It's very simple, if you are using Linux you only need to download or clone this repository.
